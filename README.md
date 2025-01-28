@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Paper Chronicles** is a personal record of the research papers I’ve read or plan to read. Each entry includes a brief summary, personal comments, tags, and more.
+This repo is a personal record of the research papers I've read, including a brief summary, personal comments, tags, and more.
 
 ---
 
@@ -10,13 +10,10 @@
 
 - **Purpose**:  
   Keep track of academic papers, their key takeaways, personal commentary, and quick reference links.
-
-- **Contributions**:  
-  Have a paper to recommend or want to add notes? Feel free to open a pull request or issue!
-
+  
 ---
 
-## Table of Papers
+## Daily (for fun) Papers
 
 | **Title / Link** | **Summary** | **Comments** | **Tags** | 
 |------------------|-------------|--------------|----------|
