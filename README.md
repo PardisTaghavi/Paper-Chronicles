@@ -18,8 +18,7 @@ This repo is a personal record of the research papers I've read, including a bri
 | **Title / Link** | **Summary** | **Comments** | **Tags** | 
 |------------------|-------------|--------------|----------|
 | [MoCo v1](https://arxiv.org/pdf/1911.05722)  | unsupervised visual representation learning |TBA | *self-supervised learning*, *contrastive learning*|
-| [MoCo v2](https://arxiv.org/pdf/2003.04297v1)| MoCov1 + using an MLP projection head and more data
-augmentation |TBA | *self-supervised learning*, *contrastive learning*|
+| [MoCo v2](https://arxiv.org/pdf/2003.04297v1)| MoCov1 + using an MLP projection head and more data augmentation |TBA | *self-supervised learning*, *contrastive learning*|
 | [Moco v3](https://arxiv.org/pdf/2104.02057)  |MoCov2 + ViTs |TBA | *self-supervised learning*, *contrastive learning*|
 |[Contrastive Test-Time Adaptation](https://arxiv.org/pdf/2204.10377) |Paper introduces a method for test-time adaptation, combining self-supervised contrastive learning with denoised pseudo-labeling. They refine pseudo-labels via neighborhood voting in the target feature space, improving robustness.| TBA | *TTT* | 
 |[Enhancing Test Time Adaptation with Few-shot Guidance” ](https://arxiv.org/pdf/2409.01341) |introduces Few-Shot Test Time Adaptation (FS-TTA), that combines a small labeled support set with test-time adaptation to improve model performance under domain shifts.| TBA | *TTT* | 
